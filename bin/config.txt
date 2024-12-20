@@ -1,0 +1,3 @@
+appID=e16d22b9
+apiSecret=M2EzMzYyOGY5OGM4NzIzNDdlNjg0MDRi
+apiKey=ca2c070b44e4af34e1d42ffb0664069e
