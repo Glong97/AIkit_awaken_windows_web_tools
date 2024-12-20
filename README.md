@@ -1,48 +1,48 @@
 # AIkit_awaken_windows_web_tools
 
-## Ò»¡¢½éÉÜ
+## ä¸€ã€ä»‹ç»
 
-`AIkit_awaken_windows_web_tools` ÊÇÒ»¸ö»ùÓÚ¿Æ´óÑ¶·ÉÓïÒô»½ĞÑ SDK ºÍ WebSocket++ ¿âµÄ Windows ¹¤¾ß¡£¸ÃÏîÄ¿Ö¼ÔÚÌá¹©Ò»¸ö¼¯³ÉÓïÒô»½ĞÑºÍ Web Í¨ĞÅ¹¦ÄÜµÄÓ¦ÓÃ³ÌĞò£¬¿ÉÊµÏÖ web ¶ËµÄÓïÒô»½ĞÑ¹¦ÄÜ¡£ÀıÈç£¬ÓïÒôÊäÈë¡°´ò¿ªÖÇÄÜÎÊ´ğ´°¿Ú¡±£¬¸Ã¹¤¾ß¿ÉÊ¶±ğÅäÖÃµÄ¡°ÖÇÄÜÎÊ´ğ¡±£¨key£©»½ĞÑ´Ê£¬È»ºóÏòä¯ÀÀÆ÷¶Ë·¢ËÍÏûÏ¢¡°znwd¡±(value)£¬ä¯ÀÀÆ÷¿ÉÒÔ¼àÌı¸ÃÏûÏ¢²¢µ¯³öÖÇÄÜÎÊ´ğ´°¿Ú¡£ÊÊÓÃÓÚ Windows ²Ù×÷ÏµÍ³¡£
+`AIkit_awaken_windows_web_tools` æ˜¯ä¸€ä¸ªåŸºäºç§‘å¤§è®¯é£è¯­éŸ³å”¤é†’ SDK å’Œ WebSocket++ åº“çš„ Windows å·¥å…·ã€‚è¯¥é¡¹ç›®æ—¨åœ¨æä¾›ä¸€ä¸ªé›†æˆè¯­éŸ³å”¤é†’å’Œ Web é€šä¿¡åŠŸèƒ½çš„åº”ç”¨ç¨‹åºï¼Œå¯å®ç° web ç«¯çš„è¯­éŸ³å”¤é†’åŠŸèƒ½ã€‚ä¾‹å¦‚ï¼Œè¯­éŸ³è¾“å…¥â€œæ‰“å¼€æ™ºèƒ½é—®ç­”çª—å£â€ï¼Œè¯¥å·¥å…·å¯è¯†åˆ«é…ç½®çš„â€œæ™ºèƒ½é—®ç­”â€ï¼ˆkeyï¼‰å”¤é†’è¯ï¼Œç„¶åå‘æµè§ˆå™¨ç«¯å‘é€æ¶ˆæ¯â€œznwdâ€(value)ï¼Œæµè§ˆå™¨å¯ä»¥ç›‘å¬è¯¥æ¶ˆæ¯å¹¶å¼¹å‡ºæ™ºèƒ½é—®ç­”çª—å£ã€‚é€‚ç”¨äº Windows æ“ä½œç³»ç»Ÿã€‚
 
-## ¶ş¡¢»ù´¡»·¾³
+## äºŒã€åŸºç¡€ç¯å¢ƒ
 
-1. **¿Æ´óÑ¶·ÉÓïÒô»½ĞÑ Windows SDK ÎÄµµ**
-   - **ÎÄµµµØÖ·**: [¿Æ´óÑ¶·ÉÓïÒô»½ĞÑ Windows SDK](https://www.xfyun.cn/doc/asr/AIkit_awaken/Windows-SDK.html)
-   - **ËµÃ÷**: Çë²Î¿¼¹Ù·½ÎÄµµ½øĞĞ SDK µÄ°²×°ºÍÅäÖÃ¡£
+1. **ç§‘å¤§è®¯é£è¯­éŸ³å”¤é†’ Windows SDK æ–‡æ¡£**
+   - **æ–‡æ¡£åœ°å€**: [ç§‘å¤§è®¯é£è¯­éŸ³å”¤é†’ Windows SDK](https://www.xfyun.cn/doc/asr/AIkit_awaken/Windows-SDK.html)
+   - **è¯´æ˜**: è¯·å‚è€ƒå®˜æ–¹æ–‡æ¡£è¿›è¡Œ SDK çš„å®‰è£…å’Œé…ç½®ã€‚
 
 2. **C++ WebSocket Client/Server Library (WebSocket++)**
-   - **GitHub µØÖ·**: [WebSocket++](https://github.com/zaphoyd/websocketpp)
-   - **°²×°ÅäÖÃ²Î¿¼**: 
-     - [Windows ÏÂ±àÒëºÍÊ¹ÓÃ WebSocket++](https://www.cnblogs.com/RioTian/p/17615409.html)
+   - **GitHub åœ°å€**: [WebSocket++](https://github.com/zaphoyd/websocketpp)
+   - **å®‰è£…é…ç½®å‚è€ƒ**: 
+     - [Windows ä¸‹ç¼–è¯‘å’Œä½¿ç”¨ WebSocket++](https://www.cnblogs.com/RioTian/p/17615409.html)
 
-3. **Boost (WebSocket ÒÀÀµ Boost »·¾³)**
-   - **×ÊÔ´ÏÂÔØ**: 
-     - [Boost ÏÂÔØºÍ°²×°Ö¸ÄÏ](https://www.cnblogs.com/RioTian/p/17581582.html)
-   - **ËµÃ÷**: WebSocket++ ÒÀÀµÓÚ Boost ¿â£¬Çë°´ÕÕÖ¸ÄÏÍê³É Boost µÄ°²×°ºÍÅäÖÃ¡£
+3. **Boost (WebSocket ä¾èµ– Boost ç¯å¢ƒ)**
+   - **èµ„æºä¸‹è½½**: 
+     - [Boost ä¸‹è½½å’Œå®‰è£…æŒ‡å—](https://www.cnblogs.com/RioTian/p/17581582.html)
+   - **è¯´æ˜**: WebSocket++ ä¾èµ–äº Boost åº“ï¼Œè¯·æŒ‰ç…§æŒ‡å—å®Œæˆ Boost çš„å®‰è£…å’Œé…ç½®ã€‚
 
-## Èı¡¢¿ª·¢¹¤¾ß
+## ä¸‰ã€å¼€å‘å·¥å…·
 
 - **Visual Studio 2022**
-  - **ËµÃ÷**: Ê¹ÓÃ Visual Studio 2022 ½øĞĞÏîÄ¿µÄ¿ª·¢ºÍµ÷ÊÔ¡£
+  - **è¯´æ˜**: ä½¿ç”¨ Visual Studio 2022 è¿›è¡Œé¡¹ç›®çš„å¼€å‘å’Œè°ƒè¯•ã€‚
 
-## ËÄ¡¢²âÊÔ
+## å››ã€æµ‹è¯•
 
-1. **ÔËĞĞ³ÌĞò**
-   - **²½Öè**:
-     1. ´ò¿ª Visual Studio 2022¡£
-     2. ¼ÓÔØÏîÄ¿ÎÄ¼ş£¨`.sln`£©¡£
-     3. ½«ÓïÒô»½ĞÑ Windows SDK»·¾³¡¢websocketpp¡¢boostµÄ»·¾³ÅäÖÃµ½vs¹¤³ÌµÄ¸½¼Ó°üº¬Ä¿Â¼ºÍ¿âÄ¿Â¼ÖĞ¡£
-     4. ÅäÖÃ`bin\config.txt`£¬ÊäÈëÓïÒô»½ĞÑµÄ`appID`¡¢`apiSecret`¡¢`apiKey`£¨È¥¿Æ´óÑ¶·É¹ÙÍø»ñÈ¡¿ÉÃâ·ÑÊ¹ÓÃÒ»¸öÔÂ£©¡£
-     5. ÅäÖÃ`bin\resource\ivw70\xbxb.txt`£¬ÅäÖÃÓïÒô»½ĞÑ´Ê¡£
-     6. ÅäÖÃ`bin\keywordMaps.txt`£¬ÊäÈë»½ĞÑ´Ê£¨key£©ºÍÒª·¢ËÍµÄÊı¾İ£¨value£©;
-     7. ÔËĞĞ³ÌĞò¡£
+1. **è¿è¡Œç¨‹åº**
+   - **æ­¥éª¤**:
+     1. æ‰“å¼€ Visual Studio 2022ã€‚
+     2. åŠ è½½é¡¹ç›®æ–‡ä»¶ï¼ˆ`.sln`ï¼‰ã€‚
+     3. å°†è¯­éŸ³å”¤é†’ Windows SDKç¯å¢ƒã€websocketppã€boostçš„ç¯å¢ƒé…ç½®åˆ°vså·¥ç¨‹çš„é™„åŠ åŒ…å«ç›®å½•å’Œåº“ç›®å½•ä¸­ã€‚
+     4. é…ç½®`bin\config.txt`ï¼Œè¾“å…¥è¯­éŸ³å”¤é†’çš„`appID`ã€`apiSecret`ã€`apiKey`ï¼ˆå»ç§‘å¤§è®¯é£å®˜ç½‘è·å–å¯å…è´¹ä½¿ç”¨ä¸€ä¸ªæœˆï¼‰ã€‚
+     5. é…ç½®`bin\resource\ivw70\xbxb.txt`ï¼Œé…ç½®è¯­éŸ³å”¤é†’è¯ã€‚
+     6. é…ç½®`bin\keywordMaps.txt`ï¼Œè¾“å…¥å”¤é†’è¯ï¼ˆkeyï¼‰å’Œè¦å‘é€çš„æ•°æ®ï¼ˆvalueï¼‰;
+     7. è¿è¡Œç¨‹åºã€‚
 
-2. **´ò¿ª `websocket_test.html`**
-   - **²½Öè**:
-     1. È·±£·şÎñÆ÷¶Ë³ÌĞòÕıÔÚÔËĞĞ¡£
-     2. Ë«»÷´ò¿ª `websocket_test.html`
-     3. ²âÊÔ WebSocket Á¬½ÓºÍÏûÏ¢´«µİ¹¦ÄÜ¡£
+2. **æ‰“å¼€ `websocket_test.html`**
+   - **æ­¥éª¤**:
+     1. ç¡®ä¿æœåŠ¡å™¨ç«¯ç¨‹åºæ­£åœ¨è¿è¡Œã€‚
+     2. åŒå‡»æ‰“å¼€ `websocket_test.html`
+     3. æµ‹è¯• WebSocket è¿æ¥å’Œæ¶ˆæ¯ä¼ é€’åŠŸèƒ½ã€‚
 
-## Îå¡¢ÔËĞĞĞ§¹û
+## äº”ã€è¿è¡Œæ•ˆæœ
 
-![result.png](S:\VS-workespace\aikit_awaken_windows_web_tools\imgs\result.png)
+![result.png](https://github.com/Glong97/aikit_awaken_windows_web_tools/blob/master/imgs/result.png)
