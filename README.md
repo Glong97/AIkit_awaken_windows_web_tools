@@ -26,6 +26,7 @@
   - **说明**: 使用 Visual Studio 2022 进行项目的开发和调试。
 
 ## 四、测试
+- **用Visual Studio 2022 打开源码运行或者直接运行编译打包好的: [release.zip](https://github.com/Glong97/aikit_awaken_windows_web_tools/releases/tag/v1.0.0)**
 
 1. **运行程序**
    - **步骤**:
